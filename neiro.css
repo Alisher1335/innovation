@@ -1,0 +1,32 @@
+body {background-image: url(rm222-mind-20.png);
+background-repeat: no-repeat;
+background-size: 100%;}
+.text{
+    position: absolute;
+    left: 4em;
+    top: 1em;
+}
+.icong{
+    position: absolute;
+    left: 0em;
+    top: 6em;
+    display: table;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-bottom: 5em;
+}
+.text1{
+    position: absolute;
+    left: 9em;
+    top: 7em;
+    color: rgb(0, 132, 255);
+    font-size: 3em;
+}
+.ramka{
+    position: absolute;
+    left: 25em;
+    top: 19em;
+    height: 18em;
+    width: 68em;
+}

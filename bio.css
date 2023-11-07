@@ -1,0 +1,99 @@
+.icong{
+    position: absolute;
+    left: 0em;
+    top: 2em;
+    display: table;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-bottom: 5em;
+}
+.qwe{
+    
+    position: absolute;
+    left: 0em;
+    top: -1em;
+    height: 30em;
+    width: 109em;
+}
+.bio{
+    position: absolute;
+    background-color: rgb(33, 206, 134);
+    width: 100%;
+    height: 430px;
+    top: 0;
+    left: 0;
+}
+.bioo{
+    position: absolute;
+    left: 7em;
+    top: 0em;
+    font-size: 5em;
+    color: aliceblue;
+}
+.fon{
+    position: absolute;
+    left: 0em;
+    top: 1em;
+    height: 60em;
+    width: 118.9em;
+}
+.qwer{
+    position: absolute;
+    left: 17em;
+    top: 5em;
+    font-size: 2.3em;
+    color: aliceblue;
+}
+.asd{
+    position: absolute;
+    left: 36em;
+    top: 10em;
+    height: 14em;
+    width: 80em;
+}
+.qqq{
+    position: absolute;
+    left: 4em;
+    top: 30em;
+}
+.qqq{
+    width: 500px;
+    transition-property: all;
+}
+.qqq:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.qqq{
+    transition: 1s;
+}
+.q{
+    position: absolute;
+    left: 43em;
+    top: 30em;
+}
+.q{
+    width: 500px;
+    transition-property: all;
+}
+.q:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.q{
+    transition: 1s;
+}
+.qq{
+    position: absolute;
+    left: 84em;
+    top: 29em;
+}
+.qq{
+    width: 500px;
+    transition-property: all;
+}
+.qq:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.qq{
+    transition: 1s;
+}

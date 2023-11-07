@@ -1,0 +1,74 @@
+body {background-image: url(rm222-mind-20.png2.png  );
+    background-repeat: no-repeat;
+    background-size: 100%;}
+.icong{
+    position: absolute;
+    left: 0em;
+    top: 2em;
+    display: table;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-bottom: 5em;
+}
+
+.text{
+    position: absolute;
+    left: 9em;
+    top: 6em;
+    color: rgb(140, 0, 255);
+    font-size: 3em;
+}
+.text2{
+    position: absolute;
+    left: 5.5em;
+    top: 1em;
+    color: rgb(132, 0, 255);
+    font-size: 5em;
+}
+.ramka{
+    position: absolute;
+    left: 24em;
+    top: 16em;
+    height: 22em;
+    width: 60em;
+}
+.qwe{
+    position: absolute;
+    left: 19em;
+    top: 1em;
+    width: 71em;
+    height: 52em;
+}
+.mid{
+    position: absolute;
+    left: 92em;
+    top: 2em;
+}
+.mid{
+    width: 381px;
+    transition-property: all;
+}
+.mid:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.mid{
+    transition: 1s;
+}
+.gpt{
+    position: absolute;
+    left: 89em;
+    top: 29em;
+    width: 25em;
+    height: 25em;
+}
+.gpt{
+    width: 381px;
+    transition-property: all;
+}
+.gpt:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.gpt{
+    transition: 1s;
+}

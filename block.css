@@ -1,0 +1,95 @@
+body{background-image: url(still-life-cryptocurrency-arrangement.png);
+background-repeat: no-repeat;
+background-size: 100%;}
+.icong{
+    position: absolute;
+    left: 0em;
+    top: 2em;
+    display: table;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-bottom: 5em;
+}
+.text{
+    position: absolute;
+    left: 10em;
+    top: 0.5em;
+    font-size: 5em;
+    color: aliceblue;
+}
+.textt{
+    position: absolute;
+    left: 1em;
+    top: 17em;
+    font-size: 2em;
+    color: rgb(3, 3, 3)240, 252;
+}
+.pr{
+    position: absolute;
+    left: 0em;
+    top: 32em;
+    width: 62em;
+    height: 15em;
+}
+.bl{
+    position: absolute;
+    left: 91em;
+    top: 1em;
+    width: 15em;
+    height: 20em;
+}
+.bl{
+    width: 420px;
+    transition-property: all;
+}
+.bl:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.bl{
+    transition: 1s;
+}
+.block{
+    position: absolute;
+    left: 91em;
+    top: 34em;
+    width: 19em;
+    height: 19em;
+}
+.block{
+    width: 400px;
+    transition-property: all;
+}
+.block:hover:hover{
+    transform: scale(1.2,1.2)
+}
+.block{
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
